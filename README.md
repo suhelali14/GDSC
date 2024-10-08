@@ -55,12 +55,11 @@ Install the project dependencies using npm:
 ```bash
 npm install
 ```
-Running the Project
+## Running the Project
 
-Start the development server:
+## Start the development server:
 
 ```bash
-Copy code
 npm run dev
-Open http://localhost:5173 in your browser to view the project.
 ```
+Open http://localhost:5173 in your browser to view the project.
