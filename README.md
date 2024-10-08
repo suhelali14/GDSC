@@ -55,9 +55,9 @@ Install the project dependencies using npm:
 ```bash
 npm install
 ```
-## Running the Project
+### Running the Project
 
-## Start the development server:
+### Start the development server:
 
 ```bash
 npm run dev
